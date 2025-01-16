@@ -1,1 +1,1 @@
-"Yo! Guys this is my new text file!!"
+"Yo! Guys this is my new text file"
